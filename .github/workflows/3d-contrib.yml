@@ -10,8 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     name: Generate 3D Contribution Graph
 
+    permissions:
+      contents: write
+
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
@@ -25,4 +30,4 @@ jobs:
           git config user.name "GitHub Action"
           git add -A
           git diff --staged --quiet || git commit -m "update: 3D contribution graph"
-          git push
+          git push origin main
