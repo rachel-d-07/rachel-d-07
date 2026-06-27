@@ -81,11 +81,6 @@ me.say_hi()
 - GSSoC 2026 Open Source Contributions
 - AI/ML community projects
 
-**🎯 2025 Goals**
-- Land an AI/ML Engineering internship
-- Reach 500+ LeetCode problems
-- Ship 3 production-ready AI projects
-
 </td>
 </tr>
 </table>
@@ -134,50 +129,7 @@ me.say_hi()
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   FEATURED PROJECTS                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## `> featured_projects`
-
-<div align="center">
-
-<a href="https://github.com/rachel-d-07/Resume-job-matcher">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rachel-d-07&repo=Resume-job-matcher&theme=tokyonight&hide_border=true&border_radius=10&title_color=00D9FF&icon_color=BD00FF&text_color=FFFFFF&bg_color=0D1117" />
-</a>
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-**🤖 AI Resume-to-Job Matcher**
-Multi-agent pipeline that parses resumes, scrapes live job listings, and ranks matches using Gemini AI — FastAPI backend, PostgreSQL storage, 85%+ relevance accuracy.
-
-`FastAPI` `Gemini AI` `PostgreSQL` `Python`
-
-[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachel-d-07/Resume-job-matcher)
-
-</td>
-<td width="33%" align="center">
-
-**🔬 Project 2 Placeholder**
-<!-- REPLACE: Add your second project name, 2-line description, tech stack badges, and repo link -->
-
-`Tech` `Stack` `Here`
-
-[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=for-the-badge&logo=github&logoColor=white)](#)
-
-</td>
-<td width="33%" align="center">
-
-**🧠 Project 3 Placeholder**
-<!-- REPLACE: Add your third project name, 2-line description, tech stack badges, and repo link -->
-
-`Tech` `Stack` `Here`
 
 [![Repo](https://img.shields.io/badge/View_Repo-161B22?style=for-the-badge&logo=github&logoColor=white)](#)
 
@@ -302,19 +254,6 @@ Multi-agent pipeline that parses resumes, scrapes live job listings, and ranks m
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CERTIFICATIONS                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## `> certifications`
-
-<!-- REPLACE: Add your actual certifications below in this format -->
-
-| Certificate | Issuer | Status |
-|---|---|---|
-| 🏅 Add your certification name | Google / Coursera / AWS / etc. | ✅ Completed |
-| 🏅 Add your certification name | Issuer | ✅ Completed |
-| 🏅 Add your certification name | Issuer | 🔄 In Progress |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
