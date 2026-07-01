@@ -63,27 +63,30 @@ me.say_hi()
 
 <table>
 <tr>
-<td width="50%">
-
-**🔭 Building**
-- AI Resume-to-Job Matching Agent (FastAPI + Gemini + PostgreSQL)
-- Multi-Agent AI Research Assistant
-
-**🌱 Learning**
-- LangGraph & Agentic AI workflows
-- System Design for ML at scale
-- DSA for technical interviews
-
+<td width="50%" valign="top">
+<strong>🔭 Building</strong>
+<ul>
+<li>AI Resume-to-Job Matching Agent (FastAPI + Gemini + PostgreSQL)</li>
+<li>Multi-Agent AI Research Assistant</li>
+</ul>
+<strong>🌱 Learning</strong>
+<ul>
+<li>LangGraph &amp; Agentic AI workflows</li>
+<li>System Design for ML at scale</li>
+<li>DSA for technical interviews</li>
+</ul>
 </td>
-<td width="50%">
-**🤝 Contributing**
-- GSSoC 2026 Open Source Contributions
-- AI/ML community projects
-
-**📚 Growing**
-- Self-learning via Coursera, YouTube & research papers
-- Actively preparing for ML internship interviews
-
+<td width="50%" valign="top">
+<strong>🤝 Contributing</strong>
+<ul>
+<li>GSSoC 2026 Open Source Contributions</li>
+<li>AI/ML community projects</li>
+</ul>
+<strong>📚 Growing</strong>
+<ul>
+<li>Self-learning via Coursera, YouTube &amp; research papers</li>
+<li>Actively preparing for ML internship interviews</li>
+</ul>
 </td>
 </tr>
 </table>
@@ -132,12 +135,6 @@ me.say_hi()
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    GITHUB STATS                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -152,7 +149,7 @@ me.say_hi()
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachel-d-07&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&hide=jupyter%20notebook&langs_count=8" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachel-d-07&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&hide=jupyter%20notebook&langs_count=8&size_weight=0.5&count_weight=0.5" width="45%"/>
 
 </div>
 
@@ -190,7 +187,6 @@ me.say_hi()
 -->
 
 <img src="https://raw.githubusercontent.com/rachel-d-07/rachel-d-07/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar"/>
-
 
 </div>
 
@@ -241,7 +237,6 @@ $ cat fun_facts.txt
 [![Discord](https://img.shields.io/badge/Find_Me_on_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rachel_0724)
 
 </div>
-
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      FOOTER                                   -->
