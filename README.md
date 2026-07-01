@@ -76,7 +76,6 @@ me.say_hi()
 
 </td>
 <td width="50%">
-
 **🤝 Contributing**
 - GSSoC 2026 Open Source Contributions
 - AI/ML community projects
