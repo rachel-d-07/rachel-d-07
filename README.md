@@ -4,7 +4,7 @@
 <!--                        HERO BANNER                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rachel%20D'Souza&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Open%20Source%20Contributor%20%E2%80%A2%20Builder&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rachel%20D'souza&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Open%20Source%20Contributor%20%E2%80%A2%20Builder&descAlignY=55&descSize=16" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   ANIMATED TYPING INTRO                       -->
